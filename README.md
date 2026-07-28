@@ -1,6 +1,6 @@
 # Hi there, I'm Devita Irawan! 👋
 
-I am a 5th-semester **Information Systems** student at UBSI, Indonesia. I am highly passionate about technology, fluent in English, and currently looking for international remote internship or entry-level opportunities.
+I am a **Information Systems** student at UBSI, Indonesia. I am highly passionate about technology, fluent in English, and currently looking for international remote internship or entry-level opportunities.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on my university capstone projects.
